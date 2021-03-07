@@ -1,1 +1,1 @@
-# ToneGenerator
+# Healing Frequency
